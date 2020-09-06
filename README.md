@@ -2,9 +2,9 @@
 
 Dies ist die Dokumentation, die Fertigungsdateien und der Programmcode zur Bewässerungsanlage, die ich für den Garten im Kliemannsland entwickelt habe. Da im Video auf dem Kliemannslandkanal recht wenig von der Technik zu sehen ist, habe ich ein weiteres Video gedreht, in dem ich im Detail auf die Technik und die Hintergründe eingehe. Seit dem ersten Dreh hat sich außerdem noch viel verändert, was ich auch in meinem Video zeige. Reinschauen lohnt sich also ;)
 
-Mein Video: TODO
+Mein Video: https://youtu.be/8PhPUCQdjGw
 
-Kliemannslandvideo: TODO
+Kliemannslandvideo: https://www.youtube.com/watch?v=iammw78OCXI
 
 Falls es noch Fragen gibt, gerne hier oder per Instagram ( https://www.instagram.com/shocker0815/ ) nachfragen.
 
@@ -19,7 +19,7 @@ Folgende Bauteile wurden für den Prototypen verwendet:
 * Jumper Kabel
 * Netzteil
 
-Eine komplette Liste ist in der Beschreibung vom Video: TODO
+Eine Liste mit Links ist in der Beschreibung vom Video: https://youtu.be/8PhPUCQdjGw
 
 Ein Komplettbausatz ist, wie im Video erwähnt in Planung, es gibt allerdings noch keinen Shop. Daher gerne anfragen und es findet sich auf jeden Fall eine Lösung.
 
