@@ -3,6 +3,8 @@
 ## Mein Video
 **Mein Video zur Bewässerungsanlage: https://youtu.be/8PhPUCQdjGw**
 
+[![Gartenbewässerung fürs Kliemannsland](https://img.youtube.com/vi/8PhPUCQdjGw/0.jpg)](https://youtu.be/8PhPUCQdjGw)
+
 ## Einleitung
 Dies ist die Dokumentation, die Fertigungsdateien und der Programmcode zur Bewässerungsanlage, die ich für den Garten im Kliemannsland entwickelt habe. Da im Video auf dem Kliemannslandkanal recht wenig von der Technik zu sehen ist, habe ich ein weiteres Video gedreht, in dem ich im Detail auf die Technik und die Hintergründe eingehe. Seit dem ersten Dreh hat sich außerdem noch viel verändert, was ich auch in meinem Video zeige. Reinschauen lohnt sich also ;)
 
